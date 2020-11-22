@@ -1,6 +1,6 @@
 ## Hey I'm Nithish Reddy.👋
 
-<img align="left" style = "border-radius: 8px;" alt="Sri Balaji Banner" src="https://i.imgur.com/BGFnjDf.png" />
+<img align="left" style = "border-radius: 8px;" alt="Sri Balaji Banner" src="" />
 <br />
 <br />
 
