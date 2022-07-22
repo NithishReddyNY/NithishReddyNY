@@ -6,6 +6,6 @@
 
 
 
-- I’m currently working as Cloud Data Engineer at Tata Consultancy Services.
-- Will start masters in CyberSecurity at Montreal, Canada.
+- I’m currently working as Senior Data Engineer at DaVita.
+- Masters in Information Systems Security(majors in Cloud and Blockchain), Concordia University at Montreal, Canada.
 - Fun fact: I love to read books and blogs.
